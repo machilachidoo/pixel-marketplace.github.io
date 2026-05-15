@@ -1,17 +1,12 @@
 # 🚀 PixelMarketplace
 
-Hier entsteht das Semesterprojekt für das Modul [Name des Moduls]. Es handelt sich um einen rein statischen Webshop (Frontend-only) für digitale Creator-Assets, bei dem alle Backend-Prozesse simuliert (gemockt) werden.
-
-**Live-Link zum Webshop:** [HIER DEIN NETLIFY/GITHUB-PAGES LINK EINTRÄGEN]
-
----
 
 ## 1. Definition des Softwareprodukts
 
 ### Produktart
-Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**PixelForge**). Vertrieben werden ausschließlich digitale Download-Produkte für Streamer und Designer.
+Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**PixelMarketplace**). Vertrieben werden ausschließlich digitale Download-Produkte für Streamer und Designer.
 
-### Hauptfunktionen (Frontend-Mocks)
+### Hauptfunktionen
 * **Produkt-Katalog:** Dynamische Übersicht, filterbar nach Kategorien via JavaScript.
 * **Warenkorb:** Persistent über den `localStorage` des Browsers.
 * **Express-Checkout:** Simulierter Bestellprozess mit Erfolgsseite.
@@ -24,9 +19,9 @@ Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**
 
 ## 2. Definition des Unternehmens
 
-* **Unternehmensname:** PixelForge Digital LLC
-* **Standort:** Köln, Deutschland
-* **Anzahl der Mitarbeiter:** 5 (Schlankes, agiles Team)
+* **Unternehmensname:** PixelMarketplace Digital LLC
+* **Standort:** Wien, Österreich
+* **Anzahl der Mitarbeiter:** 1
 
 ---
 
