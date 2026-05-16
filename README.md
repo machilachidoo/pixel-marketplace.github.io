@@ -1,10 +1,10 @@
-# 🚀 PixelMarketplace
+# PixelForge
 
 
 ## 1. Definition des Softwareprodukts
 
 ### Produktart
-Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**PixelMarketplace**). Vertrieben werden ausschließlich digitale Download-Produkte für Streamer und Designer.
+Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**PixelForge**). Vertrieben werden ausschließlich digitale Download-Produkte für Streamer und Designer.
 
 ### Hauptfunktionen
 * **Produkt-Katalog:** Dynamische Übersicht, filterbar nach Kategorien via JavaScript.
@@ -19,7 +19,7 @@ Ein spezialisierter, webbasierter B2B- & B2C-Marktplatz für digitale Assets (**
 
 ## 2. Definition des Unternehmens
 
-* **Unternehmensname:** PixelMarketplace Digital LLC
+* **Unternehmensname:** PixelForge Digital LLC
 * **Standort:** Wien, Österreich
 * **Anzahl der Mitarbeiter:** 1
 
